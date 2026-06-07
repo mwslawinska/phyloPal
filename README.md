@@ -28,6 +28,10 @@ visualizations:
 
 📖 See the [vignette](vignettes/introduction.Rmd) for a full tutorial.
 
+```r
+browseVignettes("phyloPal")
+```
+
 ## Installation
 
 ```r
