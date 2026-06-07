@@ -5,3 +5,6 @@ temp.r
 ^Rplots\\.pdf$
 ^doc$
 ^Meta$
+^_pkgdown\.yml$
+^docs$
+^pkgdown$

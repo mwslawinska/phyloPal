@@ -1,0 +1,6 @@
+url: ~
+template:
+  bootstrap: 5
+figures:
+  dev: Cairo::CairoPNG
+  dpi: 96

@@ -1,8 +1,6 @@
 # R build artifacts
 *.tar.gz
 *.Rcheck/
-man/
-docs/
 
 # R session files
 .Rhistory
@@ -24,3 +22,4 @@ Rplots.pdf
 /Meta/
 .DS_Store
 *.swp
+docs

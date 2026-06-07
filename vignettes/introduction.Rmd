@@ -16,8 +16,7 @@ knitr::opts_chunk$set(
   fig.height = 6,
   dpi = 96,
   out.width = "100%",
-  dev = "png",
-  dev.args = list(type = "cairo")
+  dev = "CairoPNG"
 )
 ```
 
