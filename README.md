@@ -9,6 +9,10 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+📖 **Documentation:** https://mwslawinska.github.io/phyloPal
+
+📖 **Vignette:** https://mwslawinska.github.io/phyloPal/articles/introduction.html
+
 ## Overview
 
 phyloPal makes it easy to create publication-ready microbiome 
@@ -26,10 +30,16 @@ visualizations:
 - 🧹 **Taxonomy cleaning** that handles Incertae Sedis and propagates
   parent taxa to fill missing levels automatically
 
-📖 See the [vignette](vignettes/introduction.Rmd) for a full tutorial.
+A full tutorial covering all workflows — data aggregation, palette 
+generation, barplots, alluvial plots, and combined 
+alluvial + dendrogram figures — is available in the 
+[online vignette](https://mwslawinska.github.io/phyloPal/articles/introduction.html).
+
+After installation, it is also accessible locally:
 
 ```r
 browseVignettes("phyloPal")
+vignette("introduction", package = "phyloPal")
 ```
 
 ## Installation

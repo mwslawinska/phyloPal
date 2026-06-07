@@ -11,6 +11,8 @@ Description: Tools for creating publication-ready microbiome visualizations.
     optional hierarchical grouping by higher taxonomy, taxonomic barplots, 
     alluvial plots for visualizing compositional changes across groups, and 
     combined alluvial-dendrogram layouts.
+URL: https://github.com/mwslawinska/phyloPal, https://mwslawinska.github.io/phyloPal
+BugReports: https://github.com/mwslawinska/phyloPal/issues
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
