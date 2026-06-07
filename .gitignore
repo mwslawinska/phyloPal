@@ -1,0 +1,26 @@
+# R build artifacts
+*.tar.gz
+*.Rcheck/
+man/
+docs/
+
+# R session files
+.Rhistory
+.RData
+.Ruserdata
+
+# setup script
+setup.r
+temp.r
+
+# VSCode
+.vscode/
+
+# other files
+._*
+inst/doc
+Rplots.pdf
+/doc/
+/Meta/
+.DS_Store
+*.swp

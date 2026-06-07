@@ -1,0 +1,7 @@
+^LICENSE\.md$
+^data-raw$
+setup.r
+temp.r
+^Rplots\\.pdf$
+^doc$
+^Meta$
