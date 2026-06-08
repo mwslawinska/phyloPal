@@ -18,9 +18,12 @@
 phyloPal makes it easy to create publication-ready microbiome 
 visualizations:
 
-- 🎨 **Perceptually uniform HCL palettes** with optional hierarchical
-  grouping by higher taxonomy — suitable for data with many taxonomic
-  groups
+- 🎨 **Perceptually uniform HCL palettes** combining multiple HCL 
+  colorspace palettes for datasets with many taxa, with optional 
+  hierarchical grouping by higher taxonomy (e.g. all Proteobacteria 
+  in blue tones) or by sample metadata (e.g. all freshwater sample 
+  types in green tones) — useful for consistent color coding across 
+  barplots, dendrograms, and ordination plots
 - 📊 **Taxonomic barplots** with colored facet strips — no more
   fighting with `ggh4x` manually
 - 🌊 **Alluvial plots** that correctly classify taxa as shared,
